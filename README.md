@@ -12,8 +12,8 @@ foobar
 
 ## An important note on colours
 
-If you've used colours in mIRC before, you'll know that the symbol for colours can be described as an elevated L, and the symbol for bold is the same symbol rotated 180 degree.
+If you've used colours in mIRC before, you'll know that the symbol for colours can be described as an elevated L, and the symbol for bold is the same symbol rotated 180 degrees.
 
-Sadly, github doesn't display these symbols, but they are there in the code.
+Sadly, GitHub doesn't display these symbols, but they are there in the code.
 
-If colour codes (colours, bold, underline italics) are used, there will be a notice at the top of the page informing you. Although you may not seen the symbols there, if you copy and paste the code to mIRC or the scripting editor, it should show up and work as intended.
+If colour codes (colours, bold, underline, italics) are used, there will be a notice at the top of the page informing you. Although you may not see the symbols there, if you copy and paste the code to mIRC or the scripting editor, it should show up and work as intended.
