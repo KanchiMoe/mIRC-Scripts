@@ -14,8 +14,6 @@ foobar
 
 If you've used colours in mIRC before, you'll know that the symbol for colours can be described as an elevated L, and the symbol for bold is the same symbol rotated 180 degree.
 
-Sadly, github doesn't display these symbols, even if the file format is .mrc. Even using markdown the symbol isn't shown as shown below.
+Sadly, github doesn't display these symbols, but they are there in the code.
 
-    /msg #Example 4Foo 12bar 3foobar.
-    
-So, in order to get around this issue, if you see "[]" with a letter inside, this is to tell you that one of those unseen symbols is in use and you need to replace that symbol in mIRC in order for things to work corre
+If colour codes (colours, bold, underline italics) are used, there will be a notice at the top of the page informing you. Although you may not seen the symbols there, if you copy and paste the code to mIRC or the scripting editor, it should show up and work as intended.
