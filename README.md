@@ -6,12 +6,13 @@ The mIRC/MSL scripts here are scripts I've created. Some scripts may use bits of
 These scripts for things what can react to IRC events (such as someone joining a channel, saying something, etc). To access mIRC's remote scripting press ALT+R or Tool > Scripts Editor. The window will open in the remotes section (as noted by the "Remote" tab at the very top of the page).
 
 # Aliases
-foobar
+These are script triggered by you (or by remotes if you set it up right) and can help you peform tasks quicker and having to type less to do those commands. EG:
+
+    /foobar /msg $chan Foobar
 
 # Colours
 
 ## An important note on colours
-
 If you've used colours in mIRC before, you'll know that the symbol for colours can be described as an elevated L, and the symbol for bold is the same symbol rotated 180 degrees.
 
 Sadly, GitHub doesn't display these symbols, but they are there in the code.
