@@ -1,0 +1,16 @@
+; Credit to the guys in #msl on SwiftIRC. 
+;
+; 
+
+on *:TEXT:*:* {
+  if ($1- !isnum) && ($highlight($1-)) { 
+    /window -ng1 @Highlight
+    /echo -ht @Highlight $chr(91) $+ $network $+ $chr(93) $chr(91) $+ $chan $+ $chr(93) $chr(60) $+ $nick $+ $chr(62) $1-
+  }
+}
+on *:ACTION:*:* {
+  if ($1- !isnum) && ($highlight($1-)) {
+    /window -ng1 @Highlight
+    /echo -ht @Highlight $chr(91) $+ $network $+ $chr(93) $chr(91) $+ $chan $+ $chr(93) 6 $+ * $nick $1-
+  }
+}
