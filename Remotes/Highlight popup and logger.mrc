@@ -49,5 +49,3 @@ on *:ACTION:*:* {
     /echo -ht @Highlight $chr(91) $+ $network $+ $chr(93) $chr(91) $+ $chan $+ $chr(93) 6 $+ * $nick $1-
   }
 }
-
-;
