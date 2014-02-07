@@ -12,7 +12,7 @@
 /cloaklogin /msg $active $1 $+ , you do not appear to be logged in to an account at the moment. Could you please identify to one or register? :)
 /cloakwebchat /msg $active $1 $+ , You are currently using webchat. Sadly, @unaffiliated cloaks do not show up on webchat and only show when using a "real" client. Are you planning on using a real client soon? :)
 /alhelp /msg $active To view the access list of a channel, see /msg ChanServ access #ExampleChannel list 
-/servicescrash /msg $active $1 don't worry, services have crashed, but the freenode staff are working on fixing it and they should retun soon :)
+/servicescrash /msg $active $1 don't worry, services have crashed, but the freenode staff are working on fixing it and they should return soon :)
 /dontrepostspam /msg $active $1- Please don't repost spam messages :) You can use "/mode YourNick +R" to block unregistered users from sending you private messages or "/mode YourNick +g" to only allow approved users to send you messages :)
 /ilines /msg $active $1- please e-mail ilines@freenode.net with the IP address range in question, the reason for the limit increase, the duration if applicable, how many simultaneous connections are needed, and reliable contact information :)
 /nickexpire /msg $active $1- Nicks expire when they are unused for 10 weeks + 1 week for every year registered, at a maximum of 15 weeks, at staff discretion. However, nicks are not automaticly dropped.
