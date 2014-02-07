@@ -15,7 +15,7 @@
 /servicescrash /msg $active $1 don't worry, services have crashed, but the freenode staff are working on fixing it and they should return soon :)
 /dontrepostspam /msg $active $1- Please don't repost spam messages :) You can use "/mode YourNick +R" to block unregistered users from sending you private messages or "/mode YourNick +g" to only allow approved users to send you messages :)
 /ilines /msg $active $1- please e-mail ilines@freenode.net with the IP address range in question, the reason for the limit increase, the duration if applicable, how many simultaneous connections are needed, and reliable contact information :)
-/nickexpire /msg $active $1- Nicks expire when they are unused for 10 weeks + 1 week for every year registered, at a maximum of 15 weeks, at staff discretion. However, nicks are not automaticly dropped.
+/nickexpire /msg $active $1- Nicks expire when they are unused for 10 weeks + 1 week for every year registered, at a maximum of 15 weeks, at staff discretion. However, nicks are not automatically dropped.
 /freenodeports /msg $active $1- freenode's ports are: 6665, 6666, 6667, 8000, 8001 and 8002. SSL ports are: 6697, 7000 and 7070 :)
 /freenodetoralt /msg $active $1- If the address p4fsi4ockecnea7l.onion does not work, try lgttsalmpw3qo4no.onion :)
 /freenodesslports /msg $active $1- freenode's SSL ports are: 6697, 7000 and 7070 :)
