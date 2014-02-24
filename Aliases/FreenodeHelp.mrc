@@ -10,7 +10,7 @@
 /arabicchannel /msg $active مرحبا هناك هل يمكنك الدخول رجاء إلى #freenode-arabic ‎‏ واطرح اسئلتك هناك مع المزيد من وسوف يفهمونك مع الأشخاص في القناة 
 /helprelease /msg $active $1 try releasing the nick. See /msg nickserv help release. You might have to do it twice :)
 /cloaklogin /msg $active $1 $+ , you do not appear to be logged in to an account at the moment. Could you please identify to one or register? :)
-/cloakwebchat /msg $active $1 $+ , You are currently using webchat. Sadly, @unaffiliated cloaks do not show up on webchat and only show when using a "real" client. Are you planning on using a real client soon? :)
+/cloakwebchat /msg $active $1 $+ , You are currently using gateway. Please read this gist for some important information on cloaks and gateways: https://gist.github.com/Chiyo-chan/b78ce4f1cb86e472217f
 /alhelp /msg $active To view the access list of a channel, see /msg ChanServ access #ExampleChannel list 
 /servicescrash /msg $active $1 don't worry, services have crashed, but the freenode staff are working on fixing it and they should return soon :)
 /dontrepostspam /msg $active $1- Please don't repost spam messages :) You can use "/mode YourNick +R" to block unregistered users from sending you private messages or "/mode YourNick +g" to only allow approved users to send you messages :)
